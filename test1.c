@@ -1,8 +1,8 @@
 #include <stdio.h>
+#include <string.h>
 #include "bmalloc.h"
 
-int 
-main ()
+int main ()
 {
 	void *p1, *p2, *p3, *p4 ;
 
